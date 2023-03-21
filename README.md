@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrillgomez&show_icons=true&locale=en&theme=github_dark" alt="abrillgomez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abrillgomez&theme=dark" alt="abrillgomez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrillgomez&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=303030&locale=en&theme=github_dark" alt="abrillgomez" /></p>
