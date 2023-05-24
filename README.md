@@ -4,7 +4,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/abrilgomez/**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">abrillgxmez@gmail.com
+<p align="left">**abrillgxmez@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
