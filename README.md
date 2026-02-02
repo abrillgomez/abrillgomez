@@ -38,15 +38,6 @@ Herramientas y tecnologías que utilizo para dar vida a mis proyectos:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrillgomez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrillgomez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph"  />
-</div>
-
----
-
 ### 🌱 Actualmente
 
 - 🎓 Estudiando **Analista Programador Universitario** en la UNLP.
