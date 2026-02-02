@@ -1,15 +1,60 @@
-<h1 align="center">Hi 👋, I'm Abril Gómez</h1>
-<h3 align="center">I’m currently working at Indicum Technology as a Software Developer</h3>
+<div align="center">
+  <h1 align="center">Hola, soy Abril Gómez 👋</h1>
+  <h3 align="center">Front End Developer | React & UI Design Enthusiast</h3>
+</div>
 
-- 📫 How to reach me **https://www.linkedin.com/in/abrilgomez/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">abrillgxmez@gmail.com
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=abrillgomez&label=Profile%20Views&color=0e75b6&style=flat" alt="abrillgomez" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+Me apasiona el puente entre el <b>Diseño</b> y el <b>Código</b>. Me especializo en crear interfaces detallistas, accesibles y con una gran experiencia de usuario, utilizando <b>TypeScript</b>, <b>React</b> y el ecosistema de <b>Next.js</b>.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrillgomez&show_icons=true&locale=en&theme=github_dark" alt="abrillgomez" /></p>
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_Visita_mi_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abrilgomez-portfolio.vercel.app/)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrilgomez)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrillgxmez@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrillgomez&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=303030&locale=en" alt="abrillgomez" /></p>
+</div>
+
+---
+
+### 🚀 Tech Stack
+
+Herramientas y tecnologías que utilizo para dar vida a mis proyectos:
+
+<div align="center">
+
+| Frontend & Design (Main Focus) | Basic Backend & Tools |
+| :---: | :---: |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abrillgomez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrillgomez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph"  />
+</div>
+
+---
+
+### 🌱 Actualmente
+
+- 🎓 Estudiando **Analista Programador Universitario** en la UNLP.
+- 🎨 Especializándome en **Design Systems**, **Animaciones** y **UI/UX**.
+- 💻 Construyendo aplicaciones modernas y tipadas con **Next.js 14** y **TypeScript**.
+
+<br/>
+
+<div align="center">
+  <i>"Design is not just what it looks like and feels like. Design is how it works."</i>
+</div>
