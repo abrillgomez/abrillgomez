@@ -3,10 +3,6 @@
   <h3 align="center">Front End Developer | React & UI Design Enthusiast</h3>
 </div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=abrillgomez&label=Profile%20Views&color=0e75b6&style=flat" alt="abrillgomez" /> 
-</p>
-
 <p align="center">
 Me apasiona el puente entre el <b>Diseño</b> y el <b>Código</b>. Me especializo en crear interfaces detallistas, accesibles y con una gran experiencia de usuario, utilizando <b>TypeScript</b>, <b>React</b> y el ecosistema de <b>Next.js</b>.
 </p>
